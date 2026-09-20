@@ -15,7 +15,7 @@ function Card({info}) {
         </div>
         <div className="project-info">
             <h3>{info.title}</h3>
-            <p>{info.year}</p>
+            <p>{info.timeline}</p>
         </div>
     </div>
 
